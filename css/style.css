@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    background-color: khaki;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.header{
+    text-align: center;
+    font-family: sans-serif;
+    color: brown;
+    margin-top: 15px;
+    font-size: 20px;
+   
+}
+
+.content {}
+
+.content .container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.content .mail h3 {
+
+    background-color: darkolivegreen;
+    margin-top: 20px;
+    color: wheat;
+    text-align: center;
+
+}
+
+.content .mail p {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.carrier h3 {
+    background-color: darkolivegreen;
+    margin-top: 20px;
+    color: wheat;
+    text-align: center;
+}
+
+.carrier p {
+    margin-top: 15px;
+    font-weight: bold;
+    text-align: justify;
+
+}
+
+.EduQualification h3 {
+    background-color: darkolivegreen;
+    margin-top: 20px;
+    color: wheat;
+    text-align: center;
+}
+
+.EduQualification p{
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.HSC h3 {
+    background-color: darkolivegreen;
+    margin-top: 20px;
+    color: wheat;
+    text-align: center;
+}
+
+.HSC p {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.SSC h3 {
+    background-color: darkolivegreen;
+    margin-top: 20px;
+    color: wheat;
+    text-align: center;
+}
+
+.SSC p {
+
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.footer .container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.KeyDetails h3 {
+    background-color: darkolivegreen;
+    margin-top: 20px;
+    color: wheat;
+    text-align: center;
+}
+
+.KeyDetails p {
+
+    margin-top: 15px;
+    font-weight: bold;
+    
+}
